@@ -1,0 +1,13 @@
+{
+    "name": "Asoka",
+    "description": "DSS project",
+    "require": {
+        "square1-io/yii-framework": "1.1.14"
+    },
+    "extra": {
+        "heroku": {
+            "document-root": "www",
+            "index-document": "index.php"
+        }
+    }
+}
